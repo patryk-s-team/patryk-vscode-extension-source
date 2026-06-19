@@ -1,1 +1,2 @@
-WindowScript got released on Visual Studio Marketplace! check it out in vscode.
+- WindowScript got released on Visual Studio Marketplace! check it out in vscode.
+- D++ will NOT be getting released on Visual Studio Marketplace. zip file + d++ files only.
